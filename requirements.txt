@@ -1,0 +1,8 @@
+# Suggested dependencies; original 2026 environment was not locked.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+jupyterlab
